@@ -1,3 +1,7 @@
+# Web Crawler
+
+This project contains a web crawler made in Python.
+
 ###### PREREQUISITES:
 
 Installing Selenium and Google Chrome Headless:
